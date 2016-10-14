@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ log4j-1.2.15.jar bcel-5.2.jar jgraph.jar looks-2.1
+ .4.jar tools.jar
+Class-Path: .
+Rsrc-Main-Class: dis.algoexplorer.AlgoExplorer
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+SplashScreen-Image: SplashScreen.png
